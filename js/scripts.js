@@ -29,6 +29,8 @@ window.onload = function() {
     'Feel free to reach out if you would like to collaborate or just say hello!',
     'You can find me on <a target="_blank" href="https://www.facebook.com/ratankumar.saha.77398/">Facebook</a>, ',
     'Or contact me directly at <a href="mailto:rittiksaha2008@gmail.com">hello@Rittik.Saha</a>',
+    getCurrentTime(),
+    '~ R.',
   ]
 
   var getFontSize = function() {
