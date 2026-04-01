@@ -21,7 +21,7 @@ window.onload = function() {
      'Hey there 👋',
     'I\'m Rittik Saha.',
     'I design and code things on the web.',
-    'I\'m currently working on <a target="_blank" href="https://animejs.com/">anime.js</a>',
+    'I\'m currently working on <a href="https://animejs.com/">anime.js</a>',
     'I am a passionate frontend developer with 5+ years of experience creating exceptional digital experiences.',
     'I specialize in React, TypeScript, and modern CSS frameworks to build scalable, performant applications.',
     'My journey started with a curiosity for how websites work, and it has evolved into a love for crafting pixel-perfect interfaces that users enjoy interacting with.',
